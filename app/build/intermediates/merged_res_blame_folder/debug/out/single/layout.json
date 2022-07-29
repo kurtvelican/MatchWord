@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_room.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game2.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\fragment_game2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_page.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\score_item.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\score_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_score_screen.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_score_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_game_screen.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_game_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_score_board.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_score_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_select_level.xml",
+        "source": "C:\\Users\\kurtv\\Desktop\\Mobil Uygulama\\Match Word\\app\\src\\main\\res\\layout\\activity_select_level.xml"
+    }
+]
