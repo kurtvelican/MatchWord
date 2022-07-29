@@ -1,0 +1,115 @@
+com/mp/matchword/databinding/ActivityRoomBinding.java
+ com.mp.matchword.databinding.ActivityRoomBinding
+com/mp/matchword/databinding/ActivityMainBinding.java
+ com.mp.matchword.databinding.ActivityMainBinding
+com/mp/matchword/MainActivity.java
+ com.mp.matchword.MainActivity
+com/mp/matchword/databinding/ActivitySelectLevelBinding.java
+ com.mp.matchword.databinding.ActivitySelectLevelBinding
+com/mp/matchword/databinding/ActivitySplashScreenBinding.java
+ com.mp.matchword.databinding.ActivitySplashScreenBinding
+com/mp/matchword/databinding/ActivityScoreBoardBinding.java
+ com.mp.matchword.databinding.ActivityScoreBoardBinding
+com/mp/matchword/databinding/FragmentGameBinding.java
+ com.mp.matchword.databinding.FragmentGameBinding
+com/mp/matchword/databinding/ActivityRegisterBinding.java
+ com.mp.matchword.databinding.ActivityRegisterBinding
+com/mp/matchword/databinding/ActivityLoginBinding.java
+ com.mp.matchword.databinding.ActivityLoginBinding
+com/mp/matchword/BuildConfig.java
+ com.mp.matchword.BuildConfig
+com/mp/matchword/User.java
+ com.mp.matchword.User
+com/mp/matchword/databinding/ActivityScoreScreenBinding.java
+ com.mp.matchword.databinding.ActivityScoreScreenBinding
+com/mp/matchword/databinding/ActivityGameScreenBinding.java
+ com.mp.matchword.databinding.ActivityGameScreenBinding
+com/mp/matchword/databinding/ActivityMainPageBinding.java
+ com.mp.matchword.databinding.ActivityMainPageBinding
+com/mp/matchword/databinding/ActivityForgotPasswordBinding.java
+ com.mp.matchword.databinding.ActivityForgotPasswordBinding
+com/mp/matchword/databinding/ScoreItemBinding.java
+ com.mp.matchword.databinding.ScoreItemBinding
+com/mp/matchword/SplashScreen.java
+ com.mp.matchword.SplashScreen
+ com.mp.matchword.SplashScreen$1
+com/mp/matchword/GameOperations/ScoreScreen.java
+ com.mp.matchword.GameOperations.ScoreScreen
+ com.mp.matchword.GameOperations.ScoreScreen$1
+ com.mp.matchword.GameOperations.ScoreScreen$2
+ com.mp.matchword.GameOperations.ScoreScreen$3
+com/mp/matchword/SignOperations/ForgotPassword.java
+ com.mp.matchword.SignOperations.ForgotPassword
+ com.mp.matchword.SignOperations.ForgotPassword$1
+ com.mp.matchword.SignOperations.ForgotPassword$2
+ com.mp.matchword.SignOperations.ForgotPassword$3
+ com.mp.matchword.SignOperations.ForgotPassword$4
+com/mp/matchword/GameOperations/GameScreen.java
+ com.mp.matchword.GameOperations.GameScreen
+com/mp/matchword/SignOperations/LoginActivity.java
+ com.mp.matchword.SignOperations.LoginActivity
+ com.mp.matchword.SignOperations.LoginActivity$1
+ com.mp.matchword.SignOperations.LoginActivity$2
+ com.mp.matchword.SignOperations.LoginActivity$3
+ com.mp.matchword.SignOperations.LoginActivity$4
+ com.mp.matchword.SignOperations.LoginActivity$5
+ com.mp.matchword.SignOperations.LoginActivity$5$1
+ com.mp.matchword.SignOperations.LoginActivity$5$2
+com/mp/matchword/RoomActivity.java
+ com.mp.matchword.RoomActivity
+ com.mp.matchword.RoomActivity$1
+ com.mp.matchword.RoomActivity$2
+ com.mp.matchword.RoomActivity$3
+ com.mp.matchword.RoomActivity$3$1
+ com.mp.matchword.RoomActivity$3$2
+com/mp/matchword/MainPage.java
+ com.mp.matchword.MainPage
+ com.mp.matchword.MainPage$1
+ com.mp.matchword.MainPage$2
+com/mp/matchword/ScoreOperations/ScoreBoard.java
+ com.mp.matchword.ScoreOperations.ScoreBoard
+ com.mp.matchword.ScoreOperations.ScoreBoard$1
+ com.mp.matchword.ScoreOperations.ScoreBoard$2
+com/mp/matchword/GameOperations/SelectLevel.java
+ com.mp.matchword.GameOperations.SelectLevel
+com/mp/matchword/GameOperations/CounterSingleton.java
+ com.mp.matchword.GameOperations.CounterSingleton
+com/mp/matchword/ScoreOperations/ScoreBoardAdapter.java
+ com.mp.matchword.ScoreOperations.ScoreBoardAdapter
+ com.mp.matchword.ScoreOperations.ScoreBoardAdapter$ScoreBoardHolder
+com/mp/matchword/GameOperations/GameFragment.java
+ com.mp.matchword.GameOperations.GameFragment
+ com.mp.matchword.GameOperations.GameFragment$1
+ com.mp.matchword.GameOperations.GameFragment$1$1
+ com.mp.matchword.GameOperations.GameFragment$1$1$1
+ com.mp.matchword.GameOperations.GameFragment$1$1$2
+ com.mp.matchword.GameOperations.GameFragment$1$1$3
+ com.mp.matchword.GameOperations.GameFragment$1$1$4
+ com.mp.matchword.GameOperations.GameFragment$2
+ com.mp.matchword.GameOperations.GameFragment$2$1
+ com.mp.matchword.GameOperations.GameFragment$2$1$1
+ com.mp.matchword.GameOperations.GameFragment$2$1$2
+ com.mp.matchword.GameOperations.GameFragment$2$1$3
+ com.mp.matchword.GameOperations.GameFragment$2$1$4
+ com.mp.matchword.GameOperations.GameFragment$3
+ com.mp.matchword.GameOperations.GameFragment$3$1
+ com.mp.matchword.GameOperations.GameFragment$3$1$1
+ com.mp.matchword.GameOperations.GameFragment$3$1$2
+ com.mp.matchword.GameOperations.GameFragment$3$1$3
+ com.mp.matchword.GameOperations.GameFragment$3$1$4
+com/mp/matchword/ScoreOperations/ScoreInfo.java
+ com.mp.matchword.ScoreOperations.ScoreInfo
+com/mp/matchword/SignOperations/RegisterActivity.java
+ com.mp.matchword.SignOperations.RegisterActivity
+ com.mp.matchword.SignOperations.RegisterActivity$1
+ com.mp.matchword.SignOperations.RegisterActivity$2
+ com.mp.matchword.SignOperations.RegisterActivity$3
+ com.mp.matchword.SignOperations.RegisterActivity$4
+ com.mp.matchword.SignOperations.RegisterActivity$5
+ com.mp.matchword.SignOperations.RegisterActivity$6
+ com.mp.matchword.SignOperations.RegisterActivity$6$1
+ com.mp.matchword.SignOperations.RegisterActivity$6$2
+ com.mp.matchword.SignOperations.RegisterActivity$6$2$1
+ com.mp.matchword.SignOperations.RegisterActivity$6$2$2
+ com.mp.matchword.SignOperations.RegisterActivity$6$2$3
+ com.mp.matchword.SignOperations.RegisterActivity$6$2$4
