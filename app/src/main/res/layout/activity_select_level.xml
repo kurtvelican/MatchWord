@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:onClick="HardtoGameScreen"
+    tools:context=".GameOperations.SelectLevel">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.19999999"
+        app:srcCompat="@drawable/logotemplate" />
+
+    <Button
+        android:id="@+id/select_easy"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="65dp"
+        android:background="@drawable/button_bg"
+        android:onClick="EasytoGameScreen"
+        android:paddingTop="4dp"
+        android:text="KOLAY"
+        android:textColor="#800000"
+        app:layout_constraintEnd_toEndOf="@+id/sl_text"
+        app:layout_constraintStart_toStartOf="@+id/sl_text"
+        app:layout_constraintTop_toBottomOf="@+id/sl_text" />
+
+    <Button
+        android:id="@+id/select_normal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button_bg"
+        android:onClick="NormaltoGameScreen"
+        android:paddingTop="4dp"
+        android:text="NORMAL"
+        android:textColor="#800000"
+        app:layout_constraintEnd_toEndOf="@+id/select_easy"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="@+id/select_easy"
+        app:layout_constraintTop_toBottomOf="@+id/select_easy" />
+
+    <Button
+        android:id="@+id/select_difficult"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/button_bg"
+        android:onClick="HardtoGameScreen"
+        android:paddingTop="4dp"
+        android:text="ZOR"
+        android:textColor="#800000"
+        app:layout_constraintEnd_toEndOf="@+id/select_normal"
+        app:layout_constraintStart_toStartOf="@+id/select_normal"
+        app:layout_constraintTop_toBottomOf="@+id/select_normal" />
+
+    <Button
+        android:id="@+id/select_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="17dp"
+        android:background="@drawable/button_bg"
+        android:onClick="back_clicked"
+        android:paddingTop="4dp"
+        android:text="GERİ"
+        android:textColor="#800000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/sl_text"
+        android:layout_width="279dp"
+        android:layout_height="42dp"
+        android:background="@color/design_default_color_background"
+        android:gravity="center"
+        android:text="ZORLUK SEVİYESİ SEÇİN"
+        android:textColor="#800000"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
